@@ -1,3 +1,5 @@
+<img src="assets/icon.svg" width="80" alt="rm-to-trash icon">
+
 # rm-to-trash
 
 `rm`, but to the Trash.
